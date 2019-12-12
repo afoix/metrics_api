@@ -1,2 +1,2 @@
 # metrics_api
-This is a API for check the metrics of your machine automatically
+This is an API for check the metrics of your machine automatically
